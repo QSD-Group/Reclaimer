@@ -1,4 +1,4 @@
-# Reclaimer System
+# Reclaimer Sanitation System
 
 This repository contains the Python scripts used for techno-economic analysis (TEA) and life cycle assessment (LCA) for the liquid reclaimer system described in [Trotochaud et al., 2020](https://doi.org/10.1021/acs.est.0c03296).
 
